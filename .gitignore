@@ -1,0 +1,29 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Research data and intermediate artifacts must not be committed
+data/
+*.mat
+*.xlsx
+*.csv
+*.wav
+*.mp3
+*.pkl
+*.joblib
+
+# Draft and review files
+*.docx
+*review*
+*Review*
+
+# Keep the public manuscript PDF
+!paper.pdf
