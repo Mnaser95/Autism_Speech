@@ -27,8 +27,7 @@ data/
 
 # Draft and review files
 *.docx
-*review*
-*Review*
+*review*.docx
 
 # Keep the public manuscript PDF
 !paper.pdf
