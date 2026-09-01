@@ -2,6 +2,14 @@
 
 ## Interpreting Vocal Features and Evaluating Model Complexity for ASD Severity Prediction
 
+### [📄 Open the full manuscript (PDF)](paper.pdf)
+
+[![First page of the manuscript](assets/paper-preview.png)](paper.pdf)
+
+*Click the preview to open the complete paper.*
+
+---
+
 This repository contains the manuscript for an unpublished research study examining which speech-derived features are most informative for estimating autism symptom severity and whether increased model complexity improves predictive performance.
 
 > **Status:** Unpublished manuscript. This work has not undergone formal peer review.
@@ -52,4 +60,3 @@ This research is intended for scientific investigation. It is not a medical devi
 ## License and reuse
 
 Copyright is retained by the authors. No permission to reproduce, modify, or redistribute the manuscript is granted unless separately authorized by all relevant rights holders.
-
